@@ -1,8 +1,0 @@
-1415070598614	Rename local variable 'picturePanel'
-1415071845159	Convert local variable 'pictureLabel' to field
-1415071902530	Convert local variable 'picturePanel' to field
-1415072687488	Convert local variable 'leftButton' to field
-1415072695653	Convert local variable 'rightButton' to field
-1415072762216	Extract method 'initLeftButton'
-1415072777884	Extract method 'initRightButton'
-1415072810898	Extract method 'initCenterPicture'

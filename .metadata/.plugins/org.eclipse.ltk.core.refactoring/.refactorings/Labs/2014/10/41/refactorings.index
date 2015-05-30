@@ -1,5 +1,0 @@
-1412819133673	Extract method 'setContentPane'
-1412819149859	Extract method 'setJLabel'
-1412820830786	Rename field 'label'
-1412820956961	Extract method 'newMainLabel'
-1412821244492	Extract method 'newControlPanel'

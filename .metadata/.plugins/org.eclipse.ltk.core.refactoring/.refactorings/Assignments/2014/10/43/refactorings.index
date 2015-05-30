@@ -1,7 +1,0 @@
-1413853325616	Delete element
-1414118050394	Rename field 'rdbtnListELements'
-1414119841278	Rename field 'randomNumber'
-1414274877520	Extract method 'createContentPane'
-1414274910602	Extract method 'createMenu'
-1414276506044	Extract method 'scorePanel'
-1414276523953	Rename method 'scorePanel'
