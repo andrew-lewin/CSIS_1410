@@ -1,0 +1,27 @@
+1414283054984	Rename method 'addScorePanel'
+1414283102567	Convert local variable 'scorePanel' to field
+1414283121818	Convert local variable 'userScore' to field
+1414283146878	Convert local variable 'computerScore' to field
+1414283181197	Convert local variable 'titleLabel' to field
+1414286310641	Extract method 'evaluateRockPaperScissors'
+1414345071015	Rename field 'userScore'
+1414345087957	Rename field 'computerScore'
+1414345116894	Rename field 'playerScore'
+1414345132954	Rename field 'cpuScore'
+1414466100926	Extract method 'createPanelRockPaperScissors'
+1414467601736	Rename local variable 'panelRockPaperScissors'
+1414543882607	Convert local variable 'lblCountdown' to field
+1414560464146	Rename local variable 'lblCpuChoice'
+1414560484146	Rename local variable 'lblResultText'
+1414560496337	Convert local variable 'lblResultTextResult' to field
+1414560512453	Convert local variable 'lblCpuChoiceResult' to field
+1414560521971	Convert local variable 'lblPlayerChoiceResult' to field
+1414716871882	Convert local variable 'gamesWonNumber' to field
+1414716894058	Convert local variable 'gamesTiedNumber' to field
+1414716898501	Convert local variable 'gamesLostNumber' to field
+1414716902701	Convert local variable 'totalGamesNumber' to field
+1414716905958	Convert local variable 'percentWonNumber' to field
+1414716909307	Convert local variable 'percentLostNumber' to field
+1414716913053	Convert local variable 'longestWinStreakNumber' to field
+1414716916316	Convert local variable 'longestLoseStreakNumber' to field
+1414724601291	Convert local variable 'welcomePanel' to field

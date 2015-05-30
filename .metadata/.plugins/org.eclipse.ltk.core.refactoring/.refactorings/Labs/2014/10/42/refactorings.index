@@ -1,0 +1,15 @@
+1413252870137	Extract method 'newTextField'
+1413253257489	Extract method 'newTitleLabel'
+1413253628173	Extract method 'newMainPanel'
+1413253798407	Delete element
+1413421471265	Delete element
+1413423473776	Delete element
+1413423489834	Delete element
+1413424177202	Extract method 'initBalloonButton'
+1413424292800	Rename local variable 'btnBalloonA'
+1413424750485	Convert local variable 'balloonA' to field
+1413424809335	Convert local variable 'btnBalloonA' to field
+1413424815714	Convert local variable 'balloonB' to field
+1413424824305	Convert local variable 'btnBalloonB' to field
+1413513860468	Copy file
+1413513927498	Delete element

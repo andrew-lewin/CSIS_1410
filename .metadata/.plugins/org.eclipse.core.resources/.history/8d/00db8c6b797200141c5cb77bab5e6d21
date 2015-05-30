@@ -1,0 +1,30 @@
+package pacman;
+
+import javax.swing.ImageIcon;
+
+public class Ghost {
+	private ImageIcon ghost = new ImageIcon("ghost.png");
+	private int location = Pacman.getLocation() - 1;
+	
+	
+	public Ghost(){
+		//hello
+		
+	}
+	
+	public void setLocation(int direction){
+		location = direction;
+	}
+	
+	public int getLocation(){
+		return location;
+	}
+	
+	public ImageIcon getImage() {
+		return ghost;
+	}
+
+	public void setImage(ImageIcon ghost) {
+		this.ghost = ghost;
+	}
+}

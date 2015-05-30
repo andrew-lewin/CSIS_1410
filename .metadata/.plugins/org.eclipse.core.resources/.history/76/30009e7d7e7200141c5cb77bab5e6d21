@@ -1,0 +1,42 @@
+package pacman;
+
+import java.awt.Component;
+import java.awt.Frame;
+
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class Ghost {
+	private ImageIcon ghost;
+	private int location;
+	
+	
+	public Ghost(){
+		ghost = new ImageIcon("ghost.png");
+		location = 148;
+		System.out.println(Board.getFrames());
+		for (Component component : (((JFrame)Board.getFrames()[0]).getContentPane().getComponents())) {
+			System.out.println(component.getWidth());
+			System.out.println("Hi");
+		}
+		
+		
+	}
+	
+	public void setLocation(int direction){
+		location = direction;
+	}
+	
+	public int getLocation(){
+		return location;
+	}
+	
+	public ImageIcon getImage() {
+		return ghost;
+	}
+
+	public void setImage(ImageIcon ghost) {
+		this.ghost = ghost;
+	}
+}

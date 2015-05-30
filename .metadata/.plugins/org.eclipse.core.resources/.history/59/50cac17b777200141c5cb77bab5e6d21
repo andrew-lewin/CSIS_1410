@@ -1,0 +1,34 @@
+package pacman;
+
+import javax.swing.ImageIcon;
+
+
+public class Pacman {
+	private ImageIcon pac = new ImageIcon("pacmanStart.png");
+<<<<<<< HEAD
+	private int location = 49;
+=======
+	private static int location = 149;
+>>>>>>> Board
+	
+	public Pacman(){
+		//hello
+	}
+	
+	public void setLocation(int direction){
+		location = direction;
+	}
+	
+	public static int getLocation(){
+		return location;
+	}
+	
+	public ImageIcon getImage() {
+		return pac;
+	}
+
+	public void setImage(ImageIcon pac) {
+		this.pac = pac;
+	}
+
+}

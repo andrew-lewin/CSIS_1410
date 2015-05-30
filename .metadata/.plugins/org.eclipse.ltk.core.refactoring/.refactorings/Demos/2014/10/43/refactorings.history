@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;balloon.images&apos; to &apos;trafficLight.images&apos;&#x0A;- Original project: &apos;Demos&apos;&#x0A;- Original element: &apos;Demos/src/balloon.images&apos;&#x0A;- Renamed element: &apos;Demos/src/trafficLight.images&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;balloon.images&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;balloon.images" name="trafficLight.images" qualified="false" references="true" stamp="1414029256103" textual="false" version="1.0"/>
+</session>

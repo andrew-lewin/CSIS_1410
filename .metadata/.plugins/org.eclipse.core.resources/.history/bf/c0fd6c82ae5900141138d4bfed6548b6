@@ -1,0 +1,17 @@
+package a07;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Set;
+
+public class ListVsSetDemo {
+	List<ColoredSquare> list;
+	Set<ColoredSquare> set;
+	
+	public ListVsSetDemo(ColoredSquare... elements) {
+		this.list = Arrays.asList(elements);
+		this.set = elements;
+	}
+	
+	
+}

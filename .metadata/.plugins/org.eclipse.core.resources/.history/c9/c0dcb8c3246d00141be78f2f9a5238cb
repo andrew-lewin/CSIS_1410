@@ -1,0 +1,18 @@
+package test;
+
+import java.awt.event.*;
+ 
+public class PacRunner implements KeyListener
+{
+        private static Grid gr;
+        public static void main (String[] args)
+        {   
+        gr = new Grid();
+        gr.addGhost(new Location(1,1));
+        gr.movePac(new Location(4,1));
+        gr.show();
+        
+        }
+     
+        
+}
